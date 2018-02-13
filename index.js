@@ -12,7 +12,7 @@ function happyHolidayTo(holiday, name) {
 }
 
 function holidayCountdown(days, holiday) {
-  if(days = )
+  if(days === 20 )
   return `It's ${days} days until ${holiday}`;
 }
 
